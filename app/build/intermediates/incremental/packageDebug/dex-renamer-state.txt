@@ -1,0 +1,7 @@
+#Mon Dec 19 23:08:04 BDT 2016
+base.0=E\:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_17a733d84f5c0853c8b0be50eb7b4da904f05589
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3cf04e8814181c9b968a177398fa5b93f0d5be7c\\classes.dex
+base.1=E\:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3cf04e8814181c9b968a177398fa5b93f0d5be7c
+file.0=E\:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_17a733d84f5c0853c8b0be50eb7b4da904f05589\\classes.dex
